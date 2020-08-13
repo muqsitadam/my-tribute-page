@@ -10,6 +10,7 @@ main {
   margin-left: 10px;
   margin-right: 10px;
   border-radius: 5px;
+  padding-bottom: 20px;
 }
 
 #img-div {
@@ -52,4 +53,7 @@ li {
 }
 ul {
   text-align: center;
+}
+#img-caption {
+  font-weight: 200;
 }
